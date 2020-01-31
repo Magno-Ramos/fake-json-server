@@ -8,6 +8,24 @@
          "images":[
 
          ]
+      },
+      {
+         "id":1,
+         "name":"Arroz",
+         "price": 3.99,
+         "description":"",
+         "images":[
+
+         ]
+      },
+      {
+         "id":1,
+         "name":" Leite",
+         "price": 5.00,
+         "description":"",
+         "images":[
+
+         ]
       }
    ]  
 }
