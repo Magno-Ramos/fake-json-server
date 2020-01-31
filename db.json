@@ -1,11 +1,13 @@
-[
-   {
-      "id":1,
-      "name":"Açucar",
-      "price":4.99,
-      "description":"",
-      "images":[
+{
+   "products": [
+      {
+         "id":1,
+         "name":"Açucar",
+         "price":4.99,
+         "description":"",
+         "images":[
 
-      ]
-   }
-]
+         ]
+      }
+   ]  
+}
