@@ -1,0 +1,20 @@
+[
+   {
+      "id":1,
+      "name":"Açucar",
+      "price":4.99,
+      "description":"",
+      "images":[
+
+      ]
+   },
+   {
+      "id":2,
+      "name":"Arroz",
+      "price": 3.38,
+      "description":"",
+      "images":[
+
+      ]
+   }
+]
